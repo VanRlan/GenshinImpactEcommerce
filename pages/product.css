@@ -33,7 +33,7 @@ a {
 }
 
 .logo img {
-    padding: 0 15px;
+    padding: 0 35px;
 }
 
 nav {
@@ -115,7 +115,7 @@ nav a:hover {
 }
 
 .small-container {
-    max-width: 1000px;
+    max-width: 1200px;
     margin: auto;
     padding-left: 25px;
     padding-right: 25px;
@@ -130,6 +130,10 @@ nav a:hover {
 .col-4 {
     flex-basis: 25%;
     padding: 20px 10px;
+}
+
+.col-4 p {
+    font-size: 20px;
 }
 
 .items {
@@ -148,7 +152,7 @@ nav a:hover {
 }
 
 select {
-    border: 1px solid #ff523b;
+    border: 3px solid gold;
     padding: 5px;
 }
 
@@ -162,7 +166,7 @@ select:focus {
 
 .page-btn span {
     display: inline-block;
-    border: 1px solid #ff523b;
+    border: 2px solid gold;
     margin-left: 10px;
     width: 40px;
     height: 40px;
@@ -172,7 +176,7 @@ select:focus {
 }
 
 .page-btn span:hover {
-    background: #ff523b;
+    background: gold;
     color: #fff;
 }
 
@@ -217,7 +221,7 @@ select:focus {
     padding-left: 10px;
     font-size: 20px;
     margin-right: 10px;
-    border: 1px solid #ff523b;
+    border: 1px solid gold;
 }
 
 input:focus {
@@ -234,12 +238,12 @@ input:focus {
 
 .btn {
     border-radius: 50px;
-    background: #ff523b;
+    background: gold;
     color: #fff;
 }
 
 .single-product .fa {
-    color: #ff523b;
+    color: gold;
     margin-left: 10px;
 }
 
