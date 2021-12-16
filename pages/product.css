@@ -242,6 +242,14 @@ input:focus {
     color: #fff;
 }
 
+.col-4 p {
+    font-weight: bold;
+}
+
+.col-4-1 p {
+    font-weight: bold;
+}
+
 .single-product .fa {
     color: gold;
     margin-left: 10px;
