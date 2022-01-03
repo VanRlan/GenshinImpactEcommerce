@@ -160,7 +160,7 @@ nav a:hover {
 }
 
 .btn:hover {
-    background: #fff;
+    background: goldenrod;
     text-shadow: 0 0 10px rgb(114 71 21 / 68%), 0 0 10px rgb(114 71 21 / 68%);
 }
 
